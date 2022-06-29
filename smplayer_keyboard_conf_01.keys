@@ -1,0 +1,274 @@
+open_file	Ctrl+O
+open_directory	
+open_playlist	
+open_vcd	
+open_audio_cd	
+open_dvd	
+open_dvd_folder	
+open_bluray	
+open_bluray_folder	
+open_url	
+close	Ctrl+X
+clear_recents	
+edit_tv_list	
+jump_tv_list	
+next_tv	
+previous_tv	
+edit_radio_list	
+jump_radio_list	
+next_radio	
+previous_radio	
+play	K
+play_or_pause	Space
+pause	
+pause_and_frame_step	
+stop	
+frame_step	
+frame_back_step	,
+rewind1	H
+rewind2	Shift+H
+rewind3	Alt+H
+forward1	L
+forward2	Shift+L
+forward3	Alt+L
+set_a_marker	
+set_b_marker	
+clear_ab_markers	
+repeat	R
+jump_to	G
+normal_speed	Backspace
+halve_speed	{
+double_speed	}
+dec_speed	
+inc_speed	
+dec_speed_4	[
+inc_speed_4	]
+dec_speed_1	
+inc_speed_1	
+fullscreen	
+compact	
+video_equalizer	
+screenshot	S
+screenshot_with_subtitles	
+screenshot_without_subtitles	
+multiple_screenshots	
+video_preview	
+flip	
+mirror	
+stereo_3d_filter	
+postprocessing	
+autodetect_phase	
+deblock	
+dering	
+gradfun	
+add_noise	
+add_letterbox	
+upscaling	
+audio_equalizer	
+mute	Ctrl+M
+decrease_volume	Ctrl+J, /, Volume Down
+increase_volume	Ctrl+K, Volume Up
+dec_audio_delay	-
+inc_audio_delay	
+audio_delay	
+load_audio_file	
+unload_audio_file	
+extrastereo_filter	
+karaoke_filter	
+volnorm_filter	
+earwax_filter	
+load_subs	
+unload_subs	
+dec_sub_delay	
+inc_sub_delay	
+sub_delay	
+dec_sub_pos	
+inc_sub_pos	
+dec_sub_scale	
+inc_sub_scale	
+dec_sub_step	
+inc_sub_step	
+seek_next_sub	
+seek_prev_sub	
+use_custom_sub_style	
+use_forced_subs_only	
+sub_visibility	
+show_find_sub_dialog	
+upload_subtitles	
+show_playlist	
+show_file_properties	Ctrl+I
+show_preferences	Ctrl+,
+show_tube_browser	
+show_mplayer_log	
+show_smplayer_log	Ctrl+S
+tablet_mode	
+first_steps	
+faq	
+cl_options	
+check_updates	
+update_youtube	
+show_config	
+donate	
+about_smplayer	
+inc_osd_scale	
+dec_osd_scale	
+osd_fractions	
+play_next	>, Media Next
+play_prev	<, Media Previous
+move_up	
+move_down	
+move_left	
+move_right	
+inc_zoom	
+dec_zoom	
+reset_zoom	
+auto_zoom	Ctrl+Z
+zoom_169	
+zoom_235	
+exit_fullscreen	Esc
+next_osd	
+dec_contrast	1
+inc_contrast	2
+dec_brightness	3
+inc_brightness	4
+dec_hue	5
+inc_hue	6
+dec_saturation	7
+inc_saturation	8
+dec_gamma	
+inc_gamma	
+previous_video	
+next_video	
+previous_audio	
+next_audio	
+previous_subtitle	
+next_subtitle	
+next_chapter	@
+prev_chapter	
+toggle_double_size	
+reset_video_equalizer	
+reset_audio_equalizer	
+show_context_menu	
+next_aspect	A
+next_wheel_function	
+show_filename_osd	Ctrl+U
+show_info_osd	Alt+I
+show_time	
+toggle_deinterlacing	
+osd_none	
+osd_seek	
+osd_timer	
+osd_total	
+denoise_none	
+denoise_normal	
+denoise_soft	
+unsharp_off	
+blur	
+sharpen	
+size_50	
+size_75	
+size_100	
+size_125	
+size_150	
+size_175	
+size_200	
+size_300	
+size_400	
+deinterlace_none	
+deinterlace_l5	
+deinterlace_yadif0	
+deinterlace_yadif1	
+deinterlace_lb	
+deinterlace_kern	
+channels_default	
+channels_stereo	
+channels_surround	
+channels_ful51	
+channels_ful61	
+channels_ful71	
+stereo	
+left_channel	
+right_channel	
+mono	
+reverse_channels	
+aspect_detect	
+aspect_1:1	
+aspect_5:4	
+aspect_4:3	
+aspect_11:8	
+aspect_14:10	
+aspect_3:2	
+aspect_14:9	
+aspect_16:10	
+aspect_16:9	
+aspect_2.35:1	
+aspect_none	
+rotate_none	
+rotate_clockwise_flip	
+rotate_clockwise	
+rotate_counterclockwise	
+rotate_counterclockwise_flip	
+on_top_always	
+on_top_never	
+on_top_playing	
+toggle_stay_on_top	
+cc_none	
+cc_ch_1	
+cc_ch_2	
+cc_ch_3	
+cc_ch_4	
+sub_fps_none	
+sub_fps_23976	
+sub_fps_24	
+sub_fps_25	
+sub_fps_29970	
+sub_fps_30	
+add_bookmark	
+edit_bookmarks	
+prev_bookmark	
+next_bookmark	
+quit	Ctrl+Q
+show_tray_icon	
+restore/hide	
+pl_open	
+pl_open_url	
+pl_save	
+pl_save_as	
+pl_play	
+pl_next	
+pl_prev	
+pl_move_up	
+pl_move_down	
+pl_repeat	
+pl_shuffle	
+pl_add_current	
+pl_add_files	
+pl_add_directory	
+pl_add_urls	
+pl_remove_selected	
+pl_remove_all	
+pl_edit	
+pl_delete_from_disk	Ctrl+D
+pl_copy_url	
+pl_open_folder	
+pl_chromecast	
+pl_show_search	
+pl_show_position_column	
+pl_show_name_column	
+pl_show_duration_column	
+pl_show_filename_column	
+pl_show_shuffle_column	
+play_on_chromecast	
+play_on_mobile	
+send_to_screen_1	
+screens_info	
+toggle_video_info	
+toggle_frame_counter	Shift+>
+toggle_format_info	
+toggle_bitrate_info	
+use_milliseconds	
+edit_main_toolbar	
+edit_control1	
+edit_control2	
+edit_floating_control	
+show_main_toolbar	F11
